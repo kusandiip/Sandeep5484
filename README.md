@@ -1,20 +1,23 @@
 <!-- Banner Image -->
-<p align="center">
+<!-- <p align="center">
   <img src="banner.png" width="100%" height="300px">
-</p>
+</p> -->
 
 <!-- Introduction -->
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Sandeep Kumar! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<h3 align="center">Full Stack Web Developer</h3>
+
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  नमस्ते (Namaste)🙏🏻, I'm Sandeep Kumar! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50" align="center"> </h2>
+
+
+<h3 align="center">Full Stack Web Developer </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35" align ="center"></h3>
 
 ---
 <!-- Social Media Badges -->
 [![Twitter Follow](https://img.shields.io/twitter/follow/sandeepkumar?label=Follow)](https://twitter.com/intent/follow?screen_name=imsandiip)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-Sandeep-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kumar-sandeep7/)](https://www.linkedin.com/in/kumar-sandeep7/)
 ![GitHub followers](https://img.shields.io/github/followers/Sandeep5484?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat&logo=Google-Chrome&logoColor=white&link=https://github.com/Sandeep5484/myporfolio)](https://github.com/Sandeep5484/myporfolio)
-[![instagram](https://img.shields.io/badge/Instagram-ff69b4.svg?&style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/sandeep_kumar_5484/)](https://www.instagram.com/sandeep_kumar_5484/)
-
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat&logo=Google-Chrome&logoColor=white&link=https://creative-fox-bcc28a.netlify.app/)](https://github.com/Sandeep5484/myporfolio)
+[![instagram](https://img.shields.io/badge/Instagram-ff69b4.svg?&style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/sandeep5484_/)](https://www.instagram.com/sandeep_kumar_5484/)
+![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
 
 
 <!-- Separator Line -->
@@ -23,7 +26,7 @@
 </p>
 
 <!-- About Me Section -->
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 ```javascript
 const sandeep = {
@@ -81,7 +84,35 @@ const sandeep = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sandeep5484&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="GitHub Contributions">
 </p>
 
+<!-- WakaTime Stats Section -->
+## 📊 I Spent My Time On
+
+I'm an Early 🐤
+
+🌞 Morning                566 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.59 %
+🌆 Daytime                1693 commits        █████████░░░░░░░░░░░░░░░░   37.66 %
+🌃 Evening                1432 commits        ████████░░░░░░░░░░░░░░░░░   31.85 %
+🌙 Night                  805 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.90 %
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.8%20million%20lines%20of%20code-blue)
+
+
+<!-- Contribution Graph -->
+## Contribution Graph
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Sandeep5484&bg_color=ffffff&color=4F8CC9&line=4F8CC9&point=ffffff&hide_border=true" alt="Contribution Graph">
+</p>
+
+
+
+
+
+
+
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+---
 
 <!-- Connect with Me Section -->
 ## 🤝 Connect with Me
