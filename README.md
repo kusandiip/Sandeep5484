@@ -89,25 +89,14 @@ const sandeep = {
 
 I'm an Early 🐤
 
-🌞 Morning                566 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.59 %
-🌆 Daytime                1693 commits        █████████░░░░░░░░░░░░░░░░   37.66 %
-🌃 Evening                1432 commits        ████████░░░░░░░░░░░░░░░░░   31.85 %
-🌙 Night                  805 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.90 %
+```text
+🌞 Morning                566 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
+🌆 Daytime                1693 commits        █████████░░░░░░░░░░░░░░░░   37.66 % 
+🌃 Evening                1432 commits        ████████░░░░░░░░░░░░░░░░░   31.85 % 
+🌙 Night                  805 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
+```
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.8%20million%20lines%20of%20code-blue)
-
-
-<!-- Contribution Graph -->
-## Contribution Graph
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Sandeep5484&bg_color=ffffff&color=4F8CC9&line=4F8CC9&point=ffffff&hide_border=true" alt="Contribution Graph">
-</p>
-
-
-
-
-
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
