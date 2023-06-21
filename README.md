@@ -1,77 +1,109 @@
-<!-- <a href="#"><img width="100%" height="5" src="BG.JPG" height="175px"/></a>
-<a href="#"><img width="100%" height="5" src="line.png" height="175px"/></a> -->
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sandeep</h1>
-<h3 align="center">I am a Full Stack Web Developer.</h3>
-<a href="#"><img width="100%" height="5" src="line.png" height="175px"/></a>
-
-## 🙋‍♂️ About Me :)
-
-- 🔭 I’m currently working on **My personal Projects.**
-
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects.**
-
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/Sandeep5484)**.
-
-<!-- - 📫 How to reach me **sandeep2017iit@gmail.com**. -->
-
-- ⚡ Fun fact **I play games, listen music and go to the GYM very often.**
-
-## 🚀 Languages and Tools:
-
-<p align="left"> 
-    <a href="https://https://www.cplusplus.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/></a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <!-- <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>  -->
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/>  </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-</p>
-
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
-
+<!-- Banner Image -->
 <p align="center">
-    <a href="https://github.com/Sandeep5484/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sandeep Kumar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Sandeep5484&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+  <img src="banner.png" width="100%" height="300px">
 </p>
 
-## 📊 My Github Stats
+<!-- Introduction -->
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Sandeep Kumar! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h3 align="center">Full Stack Web Developer</h3>
 
-  <br/>
-    <a href="https://github.com/Sandeep5484/github-readme-stats"><img alt="Sandeep Kumar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sandeep5484&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Sandeep5484/github-readme-stats"><img alt="Sandeep Kumar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep5484&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+---
+<!-- Social Media Badges -->
+[![Twitter Follow](https://img.shields.io/twitter/follow/sandeepkumar?label=Follow)](https://twitter.com/intent/follow?screen_name=imsandiip)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-Sandeep-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kumar-sandeep7/)](https://www.linkedin.com/in/kumar-sandeep7/)
+![GitHub followers](https://img.shields.io/github/followers/Sandeep5484?label=Follow&style=social)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat&logo=Google-Chrome&logoColor=white&link=https://github.com/Sandeep5484/myporfolio)](https://github.com/Sandeep5484/myporfolio)
+[![instagram](https://img.shields.io/badge/Instagram-ff69b4.svg?&style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/sandeep_kumar_5484/)](https://www.instagram.com/sandeep_kumar_5484/)
 
 
-<br/>
-<br/>
 
-<a href="https://github.com/Sandeep5484/github-readme-activity-graph"><img alt="Sandeep Kumar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sandeep5484&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<!-- Separator Line -->
+<p align="center">
+  <img src="line.png" width="100%" height="5" alt="Separator Line">
+</p>
 
-<br/>
-<br/>
+<!-- About Me Section -->
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me 
 
-## Connect with me 🤝:)
+```javascript
+const sandeep = {
+  name: 'Sandeep Kumar',
+  role: 'Web Developer',  
+  languages: ['JavaScript', 'C++', 'Python'],
+  frontend: ['React', 'Redux', 'HTML', 'CSS'],
+  backend: ['Node.js', 'Express.js', 'MongoDB'],
+  tools: ['Git', 'GitHub', 'VS Code', 'Postman', 'Heroku'],
+  askMeAbout: ["web dev", "tech", "app dev", "photography"],
+  learning: 'Data Structures and Algorithms',
+  hobbies: ['Gaming', 'Music', 'Photography'],
+  motto: 'Let\'s code something amazing together!',
+  funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
+
+<!-- Skills and Tools Section -->
+## 🚀 Languages and Tools
+
+<!-- Skills and Tools Icons -->
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++">
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React">
+  <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux">
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5">
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3">
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript">
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js">
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB">
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git">
+  <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub">
+  <img src="https://img.icons8.com/color/48/000000/npm.png" alt="npm">
+  <img src="https://img.icons8.com/color/48/000000/heroku.png" alt="Heroku">
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code">
+ 
+   
+  <!-- Add more icons here if needed -->
+</p>
+
+<!-- GitHub Stats Section -->
+## 📊 My GitHub Stats
+
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sandeep5484&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep5484&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages">
+</p>
+
+<!-- GitHub Contributions Section -->
+## 📅 GitHub Contributions
+
+<!-- GitHub Contributions -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sandeep5484&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="GitHub Contributions">
+</p>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+<!-- Connect with Me Section -->
+## 🤝 Connect with Me
+
 <p align="left">
-
-<a href = "https://www.linkedin.com/in/kumar-sandeep7/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/imsandiip"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/sandeep5484_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+  <a href="https://www.linkedin.com/in/kumar-sandeep7/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"></a>
+  <a href="https://twitter.com/imsandiip"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter"></a>
+  <a href="https://www.instagram.com/sandeep5484_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"></a>
+  
 
 </p>
 
-## ❤ Views and Followers
-<a href="https://github.com/Sandeep5484/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Sandeep5484">
-</a>
-<a href="https://github.com/Sandeep5484?tab=followers"><img src="https://img.shields.io/github/followers/Sandeep5484?label=Followers&style=social" alt="GitHub Badge"></a>
+<!-- Views and Followers Section -->
+## ❤️ Views and Followers
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Sandeep5484" alt="Profile Views">
+  <img src="https://img.shields.io/github/followers/Sandeep5484?label=Followers&style=social" alt="GitHub Followers">
+</p>
+
+<!-- Footer -->
+<p align="left">
+  <strong>Thank you for visiting my profile! If you have any inquiries or would like to connect, feel free to reach out.</strong>
+</p>
+
